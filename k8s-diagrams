@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-09T19:46:51.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ZNhGOThSKAo4gwM4I75T" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-09T19:48:13.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="uquMhQ38Cv-NIKaVUwqa" version="21.7.2" type="github">
   <diagram id="p2EOLXwsh8mRCK80WWZ6" name="Page-1">
-    <mxGraphModel dx="1194" dy="2018" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -709,10 +709,10 @@
         <mxCell id="SwolalVNK1paeV71YQBg-85" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;POD&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-199" y="2515" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SwolalVNK1paeV71YQBg-93" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Worker Node&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="SwolalVNK1paeV71YQBg-93" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Worker Node&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="110" y="2602" width="302" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="SwolalVNK1paeV71YQBg-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+        <mxCell id="SwolalVNK1paeV71YQBg-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="189" y="2506" width="146" height="96" as="geometry" />
         </mxCell>
         <mxCell id="SwolalVNK1paeV71YQBg-95" value="Conatiner1&lt;br&gt;Port: 8080" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
