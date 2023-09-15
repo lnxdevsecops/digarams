@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T00:30:08.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="vCOYtnh9NMzXGexNmAAR" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-15T14:29:30.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="nIWH3dogKUZ9rJVIHUNa" version="21.7.5" type="github">
   <diagram id="p2EOLXwsh8mRCK80WWZ6" name="Page-1">
-    <mxGraphModel dx="2046" dy="852" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="852" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3503,14 +3503,17 @@
         <mxCell id="ynDN3yOzth6VZSpCeVxI-58" value="&lt;b&gt;Private_IP&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-340" y="14540" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7D2bBM18SJb_82ShaeLM-2" value="nginx ingress controller&lt;br&gt;haproxy ingress controller&lt;br&gt;istio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7D2bBM18SJb_82ShaeLM-2" value="nginx ingress controller&lt;br&gt;haproxy ingress controller&lt;br&gt;istio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-497" y="9374" width="155" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="7D2bBM18SJb_82ShaeLM-3" value="All are layer 7 LB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7D2bBM18SJb_82ShaeLM-3" value="All are layer 7 LB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-322.75" y="9382" width="109" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="7D2bBM18SJb_82ShaeLM-4" value="https://website/springapp -- springapp&lt;br&gt;https://website/javaapp&amp;nbsp; -- javaapp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7D2bBM18SJb_82ShaeLM-4" value="https://website/springapp -- springapp&lt;br&gt;https://website/javaapp&amp;nbsp; -- javaapp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-321.24" y="9519" width="218" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4e4sXz02AAyDw6qUs6s-2" value="keybased-ssh-config" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="8092" width="128" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
